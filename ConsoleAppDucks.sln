@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppDucks", "ConsoleAppDucks\ConsoleAppDucks.csproj", "{321927EB-70E3-4E20-8FC8-C5DF845F3313}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppDucksAfter", "ConsoleAppDucksAfter\ConsoleAppDucksAfter.csproj", "{9BF9C269-9CBB-40FE-8012-093F25FE8D53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{321927EB-70E3-4E20-8FC8-C5DF845F3313}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{321927EB-70E3-4E20-8FC8-C5DF845F3313}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{321927EB-70E3-4E20-8FC8-C5DF845F3313}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{321927EB-70E3-4E20-8FC8-C5DF845F3313}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BF9C269-9CBB-40FE-8012-093F25FE8D53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BF9C269-9CBB-40FE-8012-093F25FE8D53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BF9C269-9CBB-40FE-8012-093F25FE8D53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BF9C269-9CBB-40FE-8012-093F25FE8D53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A54450B8-3BDC-438D-A03F-A8676FAA35E6}
+	EndGlobalSection
+EndGlobal
