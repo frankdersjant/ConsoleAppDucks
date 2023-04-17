@@ -1,5 +1,4 @@
 ﻿using ConsoleAppDucks.Before;
-using System;
 
 namespace ConsoleAppDucks
 {
@@ -8,13 +7,15 @@ namespace ConsoleAppDucks
         static void Main(string[] args)
         {
 
+            //Also
+            //Duck duck = new MallardDuck();
+            //duck.Fly();
+
             MallardDuck mallardDuck = new MallardDuck();
             mallardDuck.Display();
             mallardDuck.Fly();
 
-            //Also
-            //Duck duck = new MallardDuck();
-            //duck.Fly();
+            
 
             RubberDuck rubberDuck = new RubberDuck();
             rubberDuck.Display();
