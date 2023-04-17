@@ -8,7 +8,7 @@
     </TypeIdentifier>
   </Class>
   <Class Name="ConsoleAppDucks.After.MallardDuck" Collapsed="true">
-    <Position X="9.25" Y="4" Width="1.5" />
+    <Position X="8.75" Y="4" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAABAAAAAAA=</HashCode>
       <FileName>After\MallardDuck.cs</FileName>
@@ -24,7 +24,7 @@
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="ConsoleAppDucks.After.RubberDuck" Collapsed="true">
-    <Position X="12.25" Y="4" Width="1.5" />
+    <Position X="12" Y="4" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>After\RubberDuck.cs</FileName>
